@@ -1,3 +1,4 @@
+package edu.estudo.aula; 
 public class TiposVariaveis {
     public static void main (String[] args) throws Exception {
         double salarioMinimo = 2.5;
